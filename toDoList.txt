@@ -1,0 +1,11 @@
+TO DO LIST
+
+1. Create array with words for theme
+2. Create function to randomly select word from array
+3. Create funtion to display underscores equal to length of selected word
+4. Create function to allow user to guess letters.
+5. Lockout guessed letters and add them to guessed letters display
+6. Replace underscores with correctly guessed letters
+7. Update remaning guesses only when incorrect letter is guessed
+8. Display win/loss message
+9. Display wins/losses

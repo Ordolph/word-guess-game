@@ -1,0 +1,8 @@
+Make game pick random word
+Make game display word with underscores instead of letters
+Allow user to guess letters
+Lock out guessed letters
+Display guessed letters/reveal correct letters
+Display remaining guesses
+Display score
+Display win/loss message
